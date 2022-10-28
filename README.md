@@ -81,8 +81,8 @@ python -m gen_core.py
 
 <br>
 
-<a href = "https://github.com/gdsclpu/discord-bot/graphs/contributorss">
-   <img src = "https://contrib.rocks/image?repo=gdsclpu/discord-bot"/>
+<a href = "https://github.com/D3FaltXD/Password-Generator-Project/graphs/contributorss">
+   <img src = "https://contrib.rocks/image?repo=D3FaltXD/Password-Generator-Project"/>
 </a>
 
 <br>
