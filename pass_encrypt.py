@@ -1,3 +1,4 @@
+import os
 def encrypt(password,PIN):
     r=""
     for i in password:
