@@ -40,7 +40,7 @@ password generator is a tool that automatically generates a strong and unpredict
 
 # Installation
 
-Make sure [Python 3.10+](https://www.python.org) in 
+Make sure [Python 3.10+](https://www.python.org) is installed 
 
 Directly Access the Project with the [Executable](Executable\gen_core.exe)
 
