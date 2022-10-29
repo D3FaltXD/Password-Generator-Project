@@ -69,6 +69,27 @@ python -m gen_core.py
 
 # Working
 
+The app is designated towards genrating random and strong passwords and storing them in encrypted form
+
+<br>
+
+## Pass_Engine.py `(Main File for Project)`
+
+<img src="assessts\pass_engine.png">
+
+<br>
+
+## Gen_core.py
+
+<img src="assessts\genpy.png">
+
+<br>
+
+- it's the core file which links the password generator module (`pass_gen.py`) and the encryption module (`pass_encrypt.py`)
+
+- It's provides user interface in `CLI` format
+- Also can be used to `decrypt` the stored passwords afrer providing the right password
+
 <br>
 <br>
 
