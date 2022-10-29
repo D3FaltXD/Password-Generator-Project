@@ -34,7 +34,7 @@ password generator is a tool that automatically generates a strong and unpredict
     - Pass_encrypt.py   
 - [Contributors](#Contributors)
 - [Todo](#Todo)
-
+- [Reference](#Reference)
 <br>
 <br>
 
@@ -75,7 +75,8 @@ The app is designated towards genrating random and strong passwords and storing 
 
 ## Pass_Engine.py `(Main File for Project)`
 
-<img src="assessts\pass_engine.png">
+<img src="assessts\pass_engine.png" >
+
 
 <br>
 
@@ -89,6 +90,15 @@ The app is designated towards genrating random and strong passwords and storing 
 
 - It's provides user interface in `CLI` format
 - Also can be used to `decrypt` the stored passwords afrer providing the right password
+
+<br>
+
+## Pass_encrypt.py
+
+<img src="assessts\pass_encrypt.png">
+
+
+
 
 <br>
 <br>
